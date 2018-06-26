@@ -1,5 +1,5 @@
-a=2
-while a<=10:
-  print(a)
-  a=a+2
+b=2
+while b<=10:
+  print(b)
+  b=b+2
 print("Goodbye!")
