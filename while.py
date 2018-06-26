@@ -1,5 +1,6 @@
-b=2
-while b<=10:
-  print(b)
-  b=b+2
+d=2
+c=2
+while d<=10:
+  print(d)
+  d=d+2
 print("Goodbye!")
